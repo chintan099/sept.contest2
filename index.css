@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+}
+nav{
+    display:flex;
+}
+nav img{
+    width:230px;
+    height: 66px;
+}
+nav button{
+    width:223px;
+    height: 49px; 
+}
+nav div{
+    display: flex;
+    margin-left: 50%;
+
+    
+}
+.pr ,.btn{
+    padding-left: 5%;
+    margin:5%;
+    
+}
+.btn{
+    border-radius: 15px;
+    padding:5px;
+}
+.hero{
+    display: flex;
+    width:100%;
+    background-image:url("img6.png");
+    border-radius: 15px;
+    margin: 10px;
+}
+.heroimg{
+    width:50%;
+    height: 30%;
+}
+.heroimg img{
+    width:70%;
+    height: 100%;
+    padding:5%;
+}
+.herocontainer{
+    width:50%;
+    height: 30%;
+    padding: 9%;
+   
+}
+.section{
+    display:flex;
+  
+    width:100%;
+}
+
+.maintext{
+    width:50%;
+    
+}
+.mainimage{
+    display: flex;
+    width:50%;
+    
+}
+.cardmain{
+    display:flex;
+}
+.cardmain1{
+    width:33.33%;
+    margin: 5px;
+    border-radius:20px;
+}
+.foot{
+    display:flex;
+    
+    background-image:url("img6.png");
+    border-radius: 15px;
+    margin: 10px;
+}
+.foot1{
+    width:50%;
+ 
+}
+.foot2{
+    width:50%;
+ 
+}
